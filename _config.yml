@@ -1,0 +1,20 @@
+# Site settings
+title: Luke Carbis
+url: "http://carb.is" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+who: Luke Carbis
+what: Product Manager
+where: Queensland, Australia
+employer: XWP
+employer_URI: https://xwp.co
+email: luke@carb.is
+email_encoded: "yhxr@pneo.vf" # see http://rot13.com
+
+work:
+  - "WordPress plugin development for [Stream](http://wp-stream.com)."
+  - "iOS application development for [Sabbath](https://sabbath.io)."
+  - "Meetup organiser for [WordPress Sunshine Coast](http://wpsc.co)."
+  - "Public speaking and Israel advocacy with [Bridges for Peace](http://bridgesforpeace.com)."
+
+# Build settings
+markdown: kramdown
