@@ -1,20 +1,17 @@
 # Site settings
-title: Luke Carbis
-url: "http://carb.is" # the base hostname & protocol for your site
+title: Aleksandra Mokawska
+url: "http://themakowska.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-who: Luke Carbis
-what: Product Manager
-where: Queensland, Australia
+who: Aleksandra Mokawska
+what: CEO
+where: Jelenia Gora, Poland
 employer: XWP
 employer_URI: https://xwp.co
-email: luke@carb.is
-email_encoded: "yhxr@pneo.vf" # see http://rot13.com
+email: aleks@blabla.com
+email_encoded: "" # see http://rot13.com
 
 work:
-  - "WordPress plugin development for [Stream](http://wp-stream.com)."
-  - "iOS application development for [Sabbath](https://sabbath.io)."
-  - "Meetup organiser for [WordPress Sunshine Coast](http://wpsc.co)."
-  - "Public speaking and Israel advocacy with [Bridges for Peace](http://bridgesforpeace.com)."
+  - "blablabla for [Stream](http://wp-stream.com)."
 
 # Build settings
 markdown: kramdown
