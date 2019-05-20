@@ -18,6 +18,13 @@
 
         <h1 class="title">{{ site.name }}</h1>
         <h2 class="description">{{ site.bio }}</h2>
+        <!-- <h2 class="email">{{ site.email }}<a href="mailto:{{ site.email }}" target="_blank"></a></h2> -->
+        <h2 class="email">
+            <a class="link" href="mailto:{{ site.email }}">Email: {{ site.email }}</a>
+        </h2>
+        <h2 class="email">
+            <a class="link" href="tel:{{ site.tel }}">Tel: +{{ site.tel }}</a>
+        </h2>
 
         {% include social-links.html %}
     </header>
