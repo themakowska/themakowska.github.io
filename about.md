@@ -4,43 +4,25 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>O MNIE</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Fotografowanie to dla mnie nie tylko sposób na życie, to moja pasja. Pracuję w studio i w plenerze, w kolorze, w czerni i bieli, aby ukazać kobiecość w jak najlepszym kontekście. Na sesjach gwarantuję lekką i swobodną atmosferę. Zapraszam do kontaktu!</p>
 
-<h2>Skills</h2>
+<h2>OFERTA</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>sesja portretowa, sesja glamour</li>
+	<li>sesja kobieca i buduarowa</li>
+	<li>sesja aktu</li>
+	<li>sesja „brzuszkowa”</li>
+	<li>sesje do portfolio</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>PRZEBIEG</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>skontaktuj się ze mną, aby umówić się na spotkanie, na którym omówimy Twoje oczekiwania, porozmawiamy o przygotowaniach do sesji, jej klimacie</li>
+	<li>rezerwacja terminu - musi nastąpić z ok tygodniowym wyprzedzeniem</li>
+	<li>pomogę Ci zorganizować fryzjera i makijażystkę, aby sesja przyniosła jak najlepsze efekty</li>
+	<li>efekty sesji będzie można obejrzeć w indywidualnej galerii i z niej wybrać zdjęcia do kupienia</li>
 </ul>
